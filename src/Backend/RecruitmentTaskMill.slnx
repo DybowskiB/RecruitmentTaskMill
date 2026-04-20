@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="BackendTests/BackendTests.csproj" Id="16c1e6c0-da05-4f75-8e4b-07946ac06033" />
+  <Project Path="RecruitmentTaskMill/Backend.csproj" />
+</Solution>
