@@ -8,3 +8,4 @@
 - Add more unit tests to cover additional scenarios (e.g. caching, error handling)  
 - Move more configuration values (e.g. error frequency) to appsettings
 - Improve error handling in background processing and queue operations
+- Revisit in-memory request synchronization to reduce manual locking (e.g. ConcurrentDictionary or other concurrency-safe approach)
