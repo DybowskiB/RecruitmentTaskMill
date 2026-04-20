@@ -1,0 +1,6 @@
+@RecruitmentTaskMill_HostAddress = http://localhost:5190
+
+GET {{RecruitmentTaskMill_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
